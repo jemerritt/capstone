@@ -1,4 +1,3 @@
 # capstone
 
-WGU Capstone Project
-Uses machine learning algorithms from the scikit-learn library to enable ESRB rating predictions based on selected ESRB tags.
+WGU capstone project uses machine learning algorithms from the scikit-learn library to enable ESRB rating predictions based on selected ESRB tags.
